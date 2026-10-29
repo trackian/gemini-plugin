@@ -1,0 +1,11 @@
+{
+  "name": "trackian",
+  "version": "0.1.0",
+  "description": "Trackian marketing analytics: GA4, ad platforms, Search Console, online stores and AI anomaly findings, read and (opt-in) change over OAuth.",
+  "mcpServers": {
+    "trackian": {
+      "httpUrl": "https://api.trackian.app/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
